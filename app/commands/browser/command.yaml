@@ -74,3 +74,20 @@ list:
   - открой переводчик
   - переводчик
   - запусти переводчик
+
+- command:
+    action: ahk
+    exe_path: ahk/Run website.exe
+    exe_args:
+    - http://youtube.com
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - порно
+  - порно хаб
+  - запусти порно хаб
+  - я один дома
